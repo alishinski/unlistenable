@@ -39,9 +39,9 @@ menu:
     - name: FAQ
       url: /faq/
       weight: 3
-    # - name: Twitter
-    #   url: https://twitter.com/nanxstats
-    #   weight: 4
+    - name: RSS Feed
+      url: https://media.rss.com/the-unlistenable-podcast/feed.xml
+      weight: 4
     # - name: Subscribe
     #   url: /index.xml
     #   weight: 5
