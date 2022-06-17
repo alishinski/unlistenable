@@ -10,7 +10,7 @@ tags:
 meta_img: images/image.png
 description: Description for the page
 ---
-I didn't stop recording, I just stopped posting. But now I have a backlog of episodes recorded, and I'm gonna just release them on a schedule, every Tuesday and Friday. 
+I didn't stop recording, I just stopped posting. But now I have a backlog of episodes recorded, and I'm gonna just post on a schedule, every Tuesday and Friday. 
 
 In this episode I was drinking alcohol while recording for the first time. I discussed the way that thoughts are so soft and messy, and that speaking them forces you to make them so much more concrete. It's much like writing in this way, except much less time consuming, although the final product is much less precise.
 
