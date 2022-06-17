@@ -1,12 +1,9 @@
 ---
-title: 'Episode 8: Don't call it a comeback'
+title: 'Episode 8: Don''t call it a comeback'
 author: alex
 date: '2022-06-07'
 slug: []
 categories: []
-tags:
-  - one tag
-  - another tag
 meta_img: images/image.png
 description: Description for the page
 ---
