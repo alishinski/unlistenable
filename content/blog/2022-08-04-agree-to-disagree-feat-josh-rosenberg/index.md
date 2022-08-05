@@ -1,12 +1,9 @@
 ---
-title: Episode 12: Agree to Disagree feat. Josh Rosenberg
+title: 'Episode 12: Agree to Disagree feat. Josh Rosenberg'
 author: alex
 date: '2022-08-04'
 slug: []
 categories: []
-tags:
-  - one tag
-  - another tag
 meta_img: images/image.png
 description: Description for the page
 ---
