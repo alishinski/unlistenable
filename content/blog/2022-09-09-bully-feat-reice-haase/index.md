@@ -4,9 +4,6 @@ author: alex
 date: '2022-09-09'
 slug: []
 categories: []
-tags:
-  - one tag
-  - another tag
 meta_img: images/image.png
 description: Description for the page
 ---
