@@ -1,0 +1,32 @@
+---
+title: 'Episode 13: Bully! feat. Reice Haase'
+author: alex
+date: '2022-09-09'
+slug: []
+categories: []
+tags:
+  - one tag
+  - another tag
+meta_img: images/image.png
+description: Description for the page
+---
+My second guest episode! 
+
+In this episode I talk to my very good friend Reice Haase, with whom I shared a life changing year studying abroad in Germany, and who is just generally such a sincere, sweet, and loyal guy who I'm proud to call my friend. Reice lives in Mandan (Bismarck), ND, where he works in state government policy, a topic he is very charmingly passionate about. I had the chance to pay him a visit, and see the state of North Dakota for the first time, this summer, and he took me to a place that is very close to his heart, and which I had acquired a vicarious fondness for, through hearing him talk about it, although I had never visited myself. This place is the Theodore Roosevelt National Park in the western portion of the state, known to Reice (and I) simply as the Badlands, and it is a place of unique natural beauty, with a landscape featuring impressive rock formations that seemed more like what I would have expected in the US southwest (although I've never been there), although interspersed with patches of pines that seemed more fitting given the northern latitude. It seemed like an extremely rugged place even now, so I can only imagine what it was like when the area was initially being settled by European people. Well that's not true, we did visit some museums and exhibits, and I paged through a book of Reice's, that gave me some small sense of this, and it was as tough as I would have imagined. Which is then fitting given the park's namesake and one time resident Teddy Roosevelt. We were also able to attend a one man show featuring a very convincing and extremely well-informed Teddy Roosevelt impersonator which managed to be both entertaining and informative. 
+
+This episode was recorded at a remote campsite dozens of miles away from the nearest outposts of civilization, under the stars and in front of a campfire. This is Reice's favorite campsite and I felt honored to be welcomed in as a guest to a place he clearly holds extremely close to his heart. Our conversation was very much on that theme. This was very much the [transcendentalism](https://en.wikipedia.org/wiki/Transcendentalism)/[romanticism](https://en.wikipedia.org/wiki/Romanticism) episode of the podcast. From wiki:
+
+> Transcendentalism is a philosophical movement that developed in the late 1820s and 1830s in New England. A core belief is in the inherent goodness of people and nature, and while society and its institutions have corrupted the purity of the individual, people are at their best when truly "self-reliant" and independent. Transcendentalists saw divine experience inherent in the everyday, rather than believing in a distant heaven.
+
+> Romanticism (also known as the Romantic movement or Romantic era) was an artistic, literary, musical, and intellectual movement that originated in Europe towards the end of the 18th century, and in most areas was at its peak in the approximate period from 1800 to 1850. It was partly a reaction to the Industrial Revolution, the social and political norms of the Age of Enlightenment, and the scientific rationalization of nature. The movement emphasized intense emotion as an authentic source of aesthetic experience, placing new emphasis on such emotions as fear, horror, terror and awe — especially that experienced in confronting the new aesthetic categories of the sublime and beauty of nature.
+
+Without trying to frame it this way, our conversation essentially centered around both of us trying to almost find our way to some of these ideas in a way that makes sense to us and in the year 2022. I don't know how good of a job we did, but I do feel more motivated to keep trying to solve this problem after talking to Reice.
+
+I asked Reice about his ever-present yearning for adventure, and he told me about how that shaped him growing up and as an adult. We talked about what it means to us to try to have a connection with nature, and how the experiences don't really mean anything without sharing it with people you care about. Ultimately I think that we both agree on the principle that the value of nature has to ground out in human values. There would be no point in saving the environment if there were no other people to save it for, and I think that the flip side of this is that there can't really be any true enjoyment of nature without other people to share it with. 
+
+We talked about how the best pairing for adventure is one person who needs it and is obsessed and one person who is game, but who will pull back on the more reckless urges of the other person. That's always the roles that we have fallen into in our adventures together, and it has always worked really well. I being the one who is game, but who will always make sure to pull back Reice if he's going too far and trying to do something reckless. We had loads of unforgettable experiences together in these roles, so I take that as evidence it makes us a good team.
+
+We also talked about Reice's very refreshing perspective on conservation and nature, where he balances a desire to preserve and cherish our natural places, with a non-begrudging acknowledgement that we do need a lot of resources to lead our modern lives, and if we're smart and understand how to balance our priorities we can get the best of both worlds. We finished with Reice's reflections on Roosevelt and how he is emblematic of the approach that Reice strives to take in his life and how he has informed Reice's beliefs about conservation and the natural landscape, and finding that balance.
+
+All in all this was a very lovely fireside chat with my very good friend, and it really meant a lot to me to get to have it for the podcast. I really hope that someday I will have a sequel to this episode where we make it out to the badlands again. Thanks Reice!
+
